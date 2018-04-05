@@ -1,2 +1,2 @@
 # climaduino
-Criação de um sistema de monitoramento do clima
+Criação de um Sistema de Estações Meteorológicas para Monitoramento do Clima
