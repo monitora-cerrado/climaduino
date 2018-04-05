@@ -29,6 +29,7 @@ A estação básica funciona com um sensor de temperatura e umidade, mas outros 
 Código base para utilização no ESP 8266 01 e afins com NodeMCU:
 
 https://gist.github.com/chaeplin/ee0fef774d2e79e0c236
+
 3. MQTT
 
 Provisoriamente rodando no endereço climaduino.ddns.net porta padrão 1883, utilizando o broker mosquitto.
@@ -47,6 +48,7 @@ Exemplos sendo utilizados:
 Provisoriamente rodando no endereço http://climaduino.ddns.net:1880
 
 Exemplo de painel com dados recebidos: http://climaduino.ddns.net:1880/ui/#/0
+
 5. Docker
 
 Estamos utilizando as imagens:
